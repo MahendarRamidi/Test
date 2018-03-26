@@ -78,8 +78,8 @@ class LoginViewController: UIViewController, UITextFieldDelegate,CustomAlertDele
     {
         super.viewWillAppear(animated)
         
-        emailTextField.text = ""
-        passwdTextField.text = ""
+        emailTextField.text = "test1@test.com"
+        passwdTextField.text = "abcd"
         
         /*------------------------------------------------------
         dummy login for testing purpose

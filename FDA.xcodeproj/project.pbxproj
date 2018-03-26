@@ -537,9 +537,9 @@
 				TargetAttributes = {
 					48C7C0AA1F0DFD8000A91337 = {
 						CreatedOnToolsVersion = 8.3.2;
-						DevelopmentTeam = 9K6VQFNL7B;
+						DevelopmentTeam = D3W28P439J;
 						LastSwiftMigration = 0830;
-						ProvisioningStyle = Automatic;
+						ProvisioningStyle = Manual;
 						SystemCapabilities = {
 							com.apple.BackgroundModes = {
 								enabled = 0;
@@ -924,16 +924,16 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer: Niraj Hutheesing (L54ELEC6S5)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 9K6VQFNL7B;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = D3W28P439J;
 				INFOPLIST_FILE = FDA/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.4;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = gov.fda.oc.innovation.irmd;
+				PRODUCT_BUNDLE_IDENTIFIER = gov.fda.oc.innovation.irmd.preprod;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "";
-				PROVISIONING_PROFILE_SPECIFIER = "";
+				PROVISIONING_PROFILE = "85ce4ad1-9a84-4aa5-8b1b-4fa7236c1561";
+				PROVISIONING_PROFILE_SPECIFIER = OC_Innovation_IRMD_Preprod_PP_exp_Mar_13_2019;
 				SWIFT_OBJC_BRIDGING_HEADER = "FDA/Helper/FDA-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 3.0;
@@ -947,16 +947,16 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer: Niraj Hutheesing (L54ELEC6S5)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 9K6VQFNL7B;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = D3W28P439J;
 				INFOPLIST_FILE = FDA/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.4;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = gov.fda.oc.innovation.irmd;
+				PRODUCT_BUNDLE_IDENTIFIER = gov.fda.oc.innovation.irmd.preprod;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "";
-				PROVISIONING_PROFILE_SPECIFIER = "";
+				PROVISIONING_PROFILE = "85ce4ad1-9a84-4aa5-8b1b-4fa7236c1561";
+				PROVISIONING_PROFILE_SPECIFIER = OC_Innovation_IRMD_Preprod_PP_exp_Mar_13_2019;
 				SWIFT_OBJC_BRIDGING_HEADER = "FDA/Helper/FDA-Bridging-Header.h";
 				SWIFT_VERSION = 3.0;
 			};
